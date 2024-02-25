@@ -1,0 +1,16 @@
+{
+    "name": "long",
+    "description":"8888 Dragons on-chain powered by ERC404. The year of the dragon is upon us.",
+    "image": "https://raw.githubusercontent.com/devlordmonarch/metadata/main/image/Monarch-Egg.gif",
+    "external_url":"https://monarch.game",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Dark"
+      },
+      {
+        "trait_type": "status",
+        "value": "unhatched"
+      }
+    ]
+  }
